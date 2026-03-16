@@ -1,98 +1,56 @@
-Hi, I'm Devdas Mahato 👋
+👋 Hi, I'm Devdas Mahato
 
-🚀 Cloud DevOps Engineer | ☁️ Azure & AWS | ⚙️ Infrastructure as Code | 🔐 DevSecOps
+☁️ Cloud & DevOps Engineer
+🚀 Azure | AWS | Terraform | CI/CD | DevSecOps | Automation
 
-☁️ About Me
+Building automated, scalable, and secure cloud platforms using modern DevOps practices.
 
-I'm a Cloud and DevOps Engineer focused on building automated, scalable, and secure cloud environments.
+⚡ Core Expertise
 
-My work revolves around cloud infrastructure automation, CI/CD pipelines, and Infrastructure as Code across Microsoft Azure and Amazon Web Services.
+Cloud Platforms: Azure, AWS
 
-I enjoy building systems where infrastructure and applications are deployed automatically through code using DevOps practices.
+Infrastructure as Code: Terraform, Ansible
 
-🛠 Core Skills
-Cloud Platforms
+CI/CD: Azure DevOps, GitHub
 
-Microsoft Azure
+Automation: Python, REST APIs
 
-Amazon Web Services (AWS)
+Systems: Linux
 
-DevOps Tools
+🚀 Focus Areas
 
-Azure DevOps
+Infrastructure Automation
 
-Git & GitHub
-
-CI/CD Pipeline Design
-
-Infrastructure as Code
-
-Terraform
-
-Ansible
-
-Automation & Scripting
-
-Python
-
-REST APIs
-
-Linux Automation
-
-DevSecOps
-
-Secure CI/CD pipelines
-
-Infrastructure security practices
-
-Automated deployment workflows
-
-🚀 What I'm Currently Working On
-
-Automating Azure infrastructure using Terraform
-
-Building CI/CD pipelines using Azure DevOps
-
-Creating GitOps-based infrastructure deployment workflows
-
-Automating cloud resource provisioning
-
-Developing automation scripts using Python
-
-📂 Featured Projects
-☁️ Terraform Azure Infrastructure
-
-Provision Azure infrastructure using Terraform Infrastructure as Code.
-
-🔁 Azure DevOps CI/CD Pipeline
-
-Automated pipeline for building and deploying infrastructure and applications.
-
-⚙️ Infrastructure Automation with Ansible
-
-Automated server provisioning and configuration using Ansible.
-
-🌐 Multi-Cloud Deployment Lab
-
-Deploying workloads across Azure and AWS environments using DevOps pipelines.
-
-🧪 Labs & Learning
-
-Azure Infrastructure Automation
-
-AWS Cloud Deployment
-
-Terraform Infrastructure as Code
+Cloud Platform Engineering
 
 CI/CD Pipeline Architecture
 
-DevSecOps best practices
+DevSecOps Practices
 
-🌐 Portfolio Website
+Infrastructure as Code
+
+🛠 Featured Projects
+
+🔹 Terraform Azure Infrastructure
+Automated Azure infrastructure provisioning using Terraform.
+
+🔹 Azure DevOps CI/CD Pipeline
+Automated build and deployment pipelines.
+
+🔹 Cloud Automation Lab
+Infrastructure automation experiments across Azure and AWS.
+
+🌐 Portfolio
 
 https://cloudwithdev.in
 
-📫 Connect With Me
+📫 Connect
+GitHub
+https://github.com/cloudwithdev
+
+![Devdas GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudwithdev&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithdev&layout=compact)
 
 GitHub
 https://github.com/cloudwithdev
