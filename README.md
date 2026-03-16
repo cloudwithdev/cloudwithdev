@@ -1,40 +1,98 @@
-# 👋 Hi, I'm Devdas Mahato
+Hi, I'm Devdas Mahato 👋
 
-🚀 **Network Platform Engineer** | 💻 **DevSecOps Enthusiast** | ⚙️ **Network Automation Advocate** | **Azure DevOps**
+🚀 Cloud DevOps Engineer | ☁️ Azure & AWS | ⚙️ Infrastructure as Code | 🔐 DevSecOps
 
----
+☁️ About Me
 
-## 🔧 About Me
+I'm a Cloud and DevOps Engineer focused on building automated, scalable, and secure cloud environments.
 
-I'm a **Network Engineer** with over **9 years of experience**, currently focused on automating and modernizing network infrastructure. I work hands-on with:
+My work revolves around cloud infrastructure automation, CI/CD pipelines, and Infrastructure as Code across Microsoft Azure and Amazon Web Services.
 
-- **Azure DevOps** for CI/CD and pipeline integration  
-- **Ansible & Git** for automating configurations  
-- **CPE Provisioning**, **BGP**, **OSPF**, **Static Routing**, **MPLS**, and **L3VPN**  
-- **Cloud integration** and onboarding across **Core DC**, **Azure**, and **AWS**
-- Building **automation scripts** for **device configuration**, **troubleshooting**, and **support team workflows**.
+I enjoy building systems where infrastructure and applications are deployed automatically through code using DevOps practices.
 
-Currently enrolled in a **DevSecOps (AWS + Azure)** to sharpen my cloud and security automation skills.
+🛠 Core Skills
+Cloud Platforms
 
----
+Microsoft Azure
 
-## 💡 What I'm Working On
+Amazon Web Services (AWS)
 
-- **Infrastructure-as-Code** using **Ansible** & **Terraform**  
-- **Network Automation** using **Python**, **Netmiko**, and **REST APIs**  
-- **Automating Device Configurations** and **Troubleshooting Scripts** to improve support workflows  
-- **Lab simulations** with **Azure** and **AWS**  
-- **Secure CI/CD pipelines** for network configuration delivery
+DevOps Tools
 
----
+Azure DevOps
 
-## 📁 Projects Coming Soon
+Git & GitHub
 
-- 📦 **Automated Network/Infra/App deployment** with **Ansible** and **Python**  
-- 🔐 **Secure GitOps pipeline** for Infrastructure/App/Network configuration management  
-- 🌐 **Cloud-native peering automation** (AWS & Azure)  
-- 🧪 **DevNet-style test environments** using **Docker** and **Linux**
+CI/CD Pipeline Design
 
----
+Infrastructure as Code
 
----
+Terraform
+
+Ansible
+
+Automation & Scripting
+
+Python
+
+REST APIs
+
+Linux Automation
+
+DevSecOps
+
+Secure CI/CD pipelines
+
+Infrastructure security practices
+
+Automated deployment workflows
+
+🚀 What I'm Currently Working On
+
+Automating Azure infrastructure using Terraform
+
+Building CI/CD pipelines using Azure DevOps
+
+Creating GitOps-based infrastructure deployment workflows
+
+Automating cloud resource provisioning
+
+Developing automation scripts using Python
+
+📂 Featured Projects
+☁️ Terraform Azure Infrastructure
+
+Provision Azure infrastructure using Terraform Infrastructure as Code.
+
+🔁 Azure DevOps CI/CD Pipeline
+
+Automated pipeline for building and deploying infrastructure and applications.
+
+⚙️ Infrastructure Automation with Ansible
+
+Automated server provisioning and configuration using Ansible.
+
+🌐 Multi-Cloud Deployment Lab
+
+Deploying workloads across Azure and AWS environments using DevOps pipelines.
+
+🧪 Labs & Learning
+
+Azure Infrastructure Automation
+
+AWS Cloud Deployment
+
+Terraform Infrastructure as Code
+
+CI/CD Pipeline Architecture
+
+DevSecOps best practices
+
+🌐 Portfolio Website
+
+https://cloudwithdev.in
+
+📫 Connect With Me
+
+GitHub
+https://github.com/cloudwithdev
