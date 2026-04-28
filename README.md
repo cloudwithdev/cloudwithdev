@@ -1,56 +1,67 @@
-👋 Hi, I'm Devdas Mahato
+# 👋 Hi, I'm Devdas Mahato
 
-☁️ Cloud & DevOps Engineer
-🚀 Azure | AWS | Terraform | CI/CD | DevSecOps | Automation
+## Platform Engineer | DevSecOps | Cloud & Network Automation
 
-Building automated, scalable, and secure cloud platforms using modern DevOps practices.
+Building secure, scalable, and automated cloud infrastructure across AWS, Azure, and hybrid environments using modern DevSecOps and Infrastructure as Code practices.
 
-⚡ Core Expertise
+---
 
-Cloud Platforms: Azure, AWS
+## ⚡ Core Skills
 
-Infrastructure as Code: Terraform, Ansible
+### ☁️ Cloud Platforms
+- AWS
+- Azure
 
-CI/CD: Azure DevOps, GitHub
+### 🏗 Infrastructure as Code
+- Terraform
+- Ansible
 
-Automation: Python, REST APIs
+### 🚀 CI/CD & DevOps
+- Azure DevOps
+- GitHub Actions
+- Git
+- GitOps
 
-Systems: Linux
+### 🤖 Automation
+- Python
+- REST APIs
+- Network Automation
 
-🚀 Focus Areas
+### 🐧 Systems & Infrastructure
+- Linux
+- Cloud Networking
+- Hybrid Connectivity
 
-Infrastructure Automation
+---
 
-Cloud Platform Engineering
+## 🚀 Focus Areas
 
-CI/CD Pipeline Architecture
+- DevSecOps
+- Platform Engineering
+- Infrastructure Automation
+- Cloud & Network Automation
+- CI/CD Pipeline Engineering
+- Infrastructure as Code (IaC)
+- Hybrid Cloud Connectivity
+- Cloud Security & Operational Reliability
 
-DevSecOps Practices
+---
 
-Infrastructure as Code
+## 🛠 Featured Projects
 
-🛠 Featured Projects
+### 🔹 Terraform Cloud Infrastructure
+Automated cloud infrastructure provisioning and management using Terraform.
 
-🔹 Terraform Azure Infrastructure
-Automated Azure infrastructure provisioning using Terraform.
+### 🔹 Azure DevOps CI/CD Pipelines
+Built automated deployment pipelines for infrastructure and configuration management.
 
-🔹 Azure DevOps CI/CD Pipeline
-Automated build and deployment pipelines.
+### 🔹 Cloud & Network Automation Lab
+Automation experiments using Python, Ansible, Terraform, and cloud networking technologies.
 
-🔹 Cloud Automation Lab
-Infrastructure automation experiments across Azure and AWS.
+---
 
-🌐 Portfolio
+## 🌐 Portfolio
+🔗 https://cloudwithdev.in
 
-https://cloudwithdev.in
-
-📫 Connect
-GitHub
-https://github.com/cloudwithdev
-
-![Devdas GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudwithdev&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithdev&layout=compact)
-
-GitHub
-https://github.com/cloudwithdev
+## 📫 Connect
+🔗 GitHub: https://github.com/cloudwithdev
