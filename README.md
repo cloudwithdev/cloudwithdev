@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devdas Mahato
 
-## Platform Engineer | DevSecOps | Cloud & Network Automation
+## Platform Engineer | DevSecOps | Cloud &  Automation
 
 Building secure, scalable, and automated cloud infrastructure across AWS, Azure, and hybrid environments using modern DevSecOps and Infrastructure as Code practices.
 
@@ -25,7 +25,7 @@ Building secure, scalable, and automated cloud infrastructure across AWS, Azure,
 ### 🤖 Automation
 - Python
 - REST APIs
-- Network Automation
+
 
 ### 🐧 Systems & Infrastructure
 - Linux
